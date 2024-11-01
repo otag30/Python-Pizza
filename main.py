@@ -26,3 +26,5 @@ else:
         final_bill += 1
 
 print(f"Your final bill is: £{final_bill}.")
+
+# Lesson solution, seems better as is less code and more scalable if we had more variables.
