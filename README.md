@@ -1,7 +1,6 @@
 ## Congratulations, you've got a job at Python Pizza! 
 
-pizza_image.jpeg
-
+![pizza_image.jpeg](pizza_image.jpeg)
 
 Your first job is to build an automatic pizza order program.
 
