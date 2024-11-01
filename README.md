@@ -20,7 +20,11 @@ Add extra cheese for any size pizza (Y or N): +£1
 
 Example Interaction
 Welcome to Python Pizza Deliveries!
+
 What size pizza do you want? S, M or L: L
+
 Do you want pepperoni on your pizza? Y or N: Y
+
 Do you want extra cheese? Y or N: N
+
 Your final bill is: £28.
